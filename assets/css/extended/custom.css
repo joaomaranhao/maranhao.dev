@@ -1,0 +1,11 @@
+[data-theme="dark"] .logo img {
+  content: url("/images/jm-light.svg");
+}
+
+[data-theme="light"] .logo img {
+  content: url("/images/jm-dark.svg");
+}
+
+.logo a img {
+  border-radius: 0;
+}

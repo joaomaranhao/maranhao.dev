@@ -1,0 +1,16 @@
+baseURL: https://maranhao.dev/
+locale: pt-br
+title: João Maranhão
+theme: ["PaperMod"]
+params:
+  label:
+    icon: "/images/jm-light.svg"
+    iconHeight: 35
+  assets:
+    favicon: "/images/jm-colors.svg"
+menu:
+  main:
+    - identifier: sobre
+      name: Sobre
+      url: /sobre/
+      weight: 10
