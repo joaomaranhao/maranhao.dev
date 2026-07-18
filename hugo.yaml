@@ -14,3 +14,6 @@ menu:
       name: Sobre
       url: /sobre/
       weight: 10
+caches:
+  images:
+    dir: ./public/images
