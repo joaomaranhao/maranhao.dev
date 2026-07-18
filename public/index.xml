@@ -1,29 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>João Maranhão</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on João Maranhão</description>
-    <generator>Hugo</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sobre</title>
-      <link>http://localhost:1313/sobre/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sobre/</guid>
-      <description>&lt;p&gt;Este é o meu lugar para registrar o que aprendi e o que estou pensando. Sobre tecnologia, ou qualquer outra coisa que me pareça relevante no momento.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>João Maranhão</title><link>https://maranhao.dev/</link><description>Recent content on João Maranhão</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://maranhao.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Sobre</title><link>https://maranhao.dev/sobre/</link><pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate><guid>https://maranhao.dev/sobre/</guid><description>&lt;p&gt;Este é o meu lugar para registrar o que aprendi e o que estou pensando. Sobre tecnologia, ou qualquer outra coisa que me pareça relevante no momento.&lt;/p&gt;
 &lt;p&gt;Sou desenvolvedor. Gosto de Linux e sou curioso por natureza.&lt;/p&gt;
 &lt;p&gt;No dia a dia, trabalho como engenheiro de software focado em backend e microsserviços.&lt;/p&gt;
-&lt;p&gt;Este é um &lt;em&gt;brainstorming&lt;/em&gt; público. Sinta-se à vontade para ler. Se quiser trocar uma ideia, me procure nas redes sociais.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Do Distro Hopping à Produtividade: Meu Workflow Híbrido entre Linux e Windows</title>
-      <link>http://localhost:1313/posts/do-distro-hopping-a-produtividade/</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/do-distro-hopping-a-produtividade/</guid>
-      <description>Como parei de me importar com marcas de distribuições e estruturei um ambiente estável focado em fazer o trabalho.</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;Este é um &lt;em&gt;brainstorming&lt;/em&gt; público. Sinta-se à vontade para ler. Se quiser trocar uma ideia, me procure nas redes sociais.&lt;/p&gt;</description></item><item><title>Do Distro Hopping à Produtividade: Meu Workflow Híbrido entre Linux e Windows</title><link>https://maranhao.dev/posts/do-distro-hopping-a-produtividade/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://maranhao.dev/posts/do-distro-hopping-a-produtividade/</guid><description>Como parei de me importar com marcas de distribuições e estruturei um ambiente estável focado em fazer o trabalho.</description></item></channel></rss>
