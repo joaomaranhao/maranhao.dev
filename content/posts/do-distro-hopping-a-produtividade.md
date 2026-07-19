@@ -14,7 +14,7 @@ Hoje, meu setup é híbrido. Uso Fedora com KDE Plasma no laptop e Windows com W
 
 ## O Dilema do Desktop: Pragmatismo vs. Idealismo
 
-O Linux é meu ambiente favorito, mas o pragmatismo vence o idealismo quando há prazos a cumprir. Eu mantém o Windows no desktop por um motivo simples: Adobe Premiere, Illustrator e After Effects.
+O Linux é meu ambiente favorito, mas o pragmatismo vence o idealismo quando há prazos a cumprir. Eu mantenho o Windows no desktop por um motivo simples: Adobe Premiere, Illustrator e After Effects.
 
 Mudar essas ferramentas me custaria velocidade de entrega. Não vale a pena aprender softwares novos do zero apenas por ideologia. Uso o WSL2 no Windows e tenho o terminal do Linux rodando de forma quase nativa. É o melhor dos dois mundos para o meu contexto.
 
