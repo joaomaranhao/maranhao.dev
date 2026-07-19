@@ -18,7 +18,7 @@ Este é um *brainstorming* público. Sinta-se à vontade para ler. Se quiser tro
 
 ### Algumas observações
 
-Sou cria da Mantiqueira: do Vale do Paraíba, paulista de nascimento, mineiro e paraibano de coração.
+Sou do Vale do Paraíba, um vale localizado entre as Serras do Mar e da Mantiqueira. Paulista de nascimento, mineiro e paraibano de coração.
 
 Tenho uma convicção simples: a maioria das pessoas deveria ter menos opiniões sobre a vida dos outros.
 
